@@ -1,0 +1,15 @@
+.App {
+  width: 400px;
+  height: 200px;
+  margin: auto;
+  margin-top: 10px;
+  text-align: center;
+  border: 1px solid red;
+}
+
+.btn button{
+  margin-right: 10px;
+  margin-top: 20px;
+  width: 80px;
+  height: 30px;
+}

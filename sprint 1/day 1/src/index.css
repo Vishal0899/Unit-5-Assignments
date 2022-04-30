@@ -1,0 +1,18 @@
+img{
+    margin-left: 40%;
+    height: 200px;
+}
+
+.body{
+    margin-left: 40%;
+}
+
+#userInput{
+    height: 30px;
+    width: 250px;
+}
+
+button{
+    height: 36px;
+    width: 50px;
+}
